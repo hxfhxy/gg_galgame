@@ -1,0 +1,20 @@
+# 构建产物
+release/
+*.zip
+
+# Ren'Py 缓存
+*.rpyc
+*.rpyb
+__pycache__/
+game/cache/
+game/*.rpyc
+
+# 系统文件
+thumbs.db
+.DS_Store
+*.bak
+*~
+
+# 日志和错误
+log.txt
+errors.txt
