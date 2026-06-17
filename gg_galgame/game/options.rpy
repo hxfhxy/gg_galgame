@@ -41,6 +41,9 @@ define gui.about = _p("""
 
 define build.name = "erzhong_love"
 
+## 标题界面背景音乐
+define config.main_menu_music = "audio/menu_bgm.mp3"
+
 
 ## 转场 ##########################################################################
 ##
