@@ -12,6 +12,8 @@ label start:
     $ route = ""
     $ chapter = 0
 
+    play music "audio/bgm.mp3" loop
+
     scene bg black with fade
     pause 1.0
 
